@@ -53,6 +53,7 @@ const Wrapper = styled.section`
     h1 {
       text-transform: capitalize;
       font-weight: bold;
+      color: #4226f7;
     }
 
     .intro-data {
